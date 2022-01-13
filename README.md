@@ -1,10 +1,11 @@
 # Introduction to Data Science: Project
 
-#### II. a comprehensive overview on the use of machine learning models for predicting the heart disease
-#### III. explains the data overview, number of attributes and description of each attribute
-#### IV. shows the data preprocessing steps applied in this study
-#### V., VI., VII. present the experiment design, implementation, and performances of the classifiers respectively
-#### VIII. the study has been concluded
+#### I. Introduction
+#### II. A comprehensive overview on the use of machine learning models for predicting the heart disease
+#### III. Explaining the data overview, number of attributes and description of each attribute
+#### IV. Showing the data preprocessing steps applied in this study
+#### V., VI., VII. Presenting the experiment design, implementation, and performances of the classifiers respectively
+#### VIII. Study conclusion
 
 ## 2. MACHINE LEARNING CLASSIFIERS FOR HEART DISEASE PREDICTION
 - main idea behind this discussion is to put stress on how helpful machine learning approaches are to predict the heart disease using medical data
@@ -41,4 +42,3 @@
 - At the first step of implementation, the training dataset used to learn the ML model. For this, the dataset was imported using ― "Read_CSV" operator in Rapid Miner
 
 ## 7. DISCUSSION ON MODEL PERFORMANCES AND COMPARISONS
-- 
